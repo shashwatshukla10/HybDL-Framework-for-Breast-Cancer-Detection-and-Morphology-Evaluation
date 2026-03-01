@@ -198,10 +198,9 @@ Saurabh Shukla
 
 **The manuscript is currently under review.**
 
-<p style="color:red;"> The code is shared for transparency and academic reference only.<br>
+The code is shared for transparency and academic reference only.<br>
 Reproduction, redistribution, or commercial use is not permitted<br>
 without prior written permission from the authors.
-</p>
 
 ---
 
