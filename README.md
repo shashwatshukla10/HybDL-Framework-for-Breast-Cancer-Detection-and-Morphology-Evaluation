@@ -145,7 +145,7 @@ The morphology modeling performance of the LSTM module is evaluated using regres
 These metrics measure the model’s ability to capture temporal tumor growth patterns and shape evolution.
 
 <p align="center">
-<img src="https://github.com/shashwatshukla10/HyDL-Framework-for-Breast-Cancer-Detection-and-Morphology-Evaluation/blob/main/Figures/MorphologyFeaturesDistribution.jpg"width="900" height="700">
+<img src="https://github.com/shashwatshukla10/HyDL-Framework-for-Breast-Cancer-Detection-and-Morphology-Evaluation/blob/main/Figures/MorphologyFeaturesDistribution.jpg"width="850" height="650">
 <p align="center">
 
 **Figure 13.**  A representation of the different morphology features of the training, validation, and test sets.
@@ -157,7 +157,7 @@ These metrics measure the model’s ability to capture temporal tumor growth pat
 **Figure 14.**  Comparative analysis of the proposed HybDL with WODD and WDD using parity plots and residual histograms.
 
 <p align="center">
-<img src="https://github.com/shashwatshukla10/HyDL-Framework-for-Breast-Cancer-Detection-and-Morphology-Evaluation/blob/main/Figures/RegressionMSE.jpg"width="700" height="500">
+<img src="https://github.com/shashwatshukla10/HyDL-Framework-for-Breast-Cancer-Detection-and-Morphology-Evaluation/blob/main/Figures/RegressionMSE.jpg"width="800" height="600">
 <p align="center">
 
 **Figure 15.**  Training and validation MSE convergence of the HybDL model on two datasets. (a) HybDL with WODD and (b) HybDL with WDD.
@@ -167,6 +167,10 @@ These metrics measure the model’s ability to capture temporal tumor growth pat
 ### 3. Statistical Validation
 
 To ensure reliability and robustness, all results are further validated using a **95% confidence interval**.
+
+<p align="center">
+<img src="https://github.com/shashwatshukla10/HyDL-Framework-for-Breast-Cancer-Detection-and-Morphology-Evaluation/blob/main/Figures/Table%207.png"width="800" height="600">
+<p align="center">
 
 ---
 
