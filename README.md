@@ -36,3 +36,9 @@ The system model of the proposed HybDL consists of three functional phases, as d
 # Dataset
 The dataset is accessible through the [Kaggle Website](https://www.kaggle.com/datasets/anaselmasry/datasetbusiwithgt/data). This dataset consists of a total of *780 breast images*, categorized into *133 normal*, *437 benign*,
 and *210 malignant* images. A representation of the dataset is presented in Figure 3. 
+
+<p align="center">
+<img src="https://github.com/shashwatshukla10/HyDL-Framework-for-Breast-Cancer-Detection-and-Morphology-Evaluation/blob/main/Figures/Distribution.jpg" width="800" height="600">
+<p align="center">
+
+**Figure 3.**  Dataset showing normal, benign, and malignant images, each presented with and without their masks.
