@@ -113,7 +113,7 @@ After validating performance on the WODD dataset, a comparative analysis is cond
 tumor detection.
 
 <p align="center">
-<img src="https://github.com/shashwatshukla10/HyDL-Framework-for-Breast-Cancer-Detection-and-Morphology-Evaluation/blob/main/Figures/ROCAUCPerClass.jpg"width="700" height="500">
+<img src="https://github.com/shashwatshukla10/HyDL-Framework-for-Breast-Cancer-Detection-and-Morphology-Evaluation/blob/main/Figures/ROCAUCPerClass.jpg"width="800" height="600">
 <p align="center">
 
 **Figure 10.**  Area under curve (AUC) performance of the proposed HybDL on WODD and WDD datasets. (a) AUC performance on the WODD dataset and (b) AUC performance on the WDD dataset.
@@ -143,6 +143,18 @@ The morphology modeling performance of the LSTM module is evaluated using regres
 - Coefficient of Determination (R²)  
 
 These metrics measure the model’s ability to capture temporal tumor growth patterns and shape evolution.
+
+<p align="center">
+<img src="https://github.com/shashwatshukla10/HyDL-Framework-for-Breast-Cancer-Detection-and-Morphology-Evaluation/blob/main/Figures/MorphologyFeaturesDistribution.jpg"width="700" height="500">
+<p align="center">
+
+**Figure 13.**  A representation of the different morphology features of the training, validation, and test sets.
+
+<p align="center">
+<img src="https://github.com/shashwatshukla10/HyDL-Framework-for-Breast-Cancer-Detection-and-Morphology-Evaluation/blob/main/Figures/RegressionPredictionFit.png"width="700" height="500">
+<p align="center">
+
+**Figure 14.**  Comparative analysis of the proposed HybDL with WODD and WDD using parity plots and residual histograms.
 
 ---
 
