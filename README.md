@@ -56,3 +56,10 @@ The Structural Similarity Index (SSIM) algorithm was applied to the overall data
 <p align="center">
 <img src="https://github.com/shashwatshukla10/HyDL-Framework-for-Breast-Cancer-Detection-and-Morphology-Evaluation/blob/main/Figures/Table%201.png" width="700" height="500">
 <p align="center">
+
+<p align="center">
+<img src="https://github.com/shashwatshukla10/HyDL-Framework-for-Breast-Cancer-Detection-and-Morphology-Evaluation/blob/main/Figures/CombinedImages.png" width="900" height="700">
+<p align="center">
+
+**Figure 5.**  A representation of the original, masks, and overlay for the normal, benign, and malignant images. 
+
