@@ -77,7 +77,7 @@ The Structural Similarity Index (SSIM) algorithm was applied to the overall data
 # Results
 ## Performance Evaluation
 
-The performance of the proposed **HybDL framework** is evaluated for both breast tumor detection and temporal morphology analysis.
+The performance of the proposed **HybDL framework** is evaluated for both breast tumor detection and temporal morphology analysis. A comprehensive summary of all results is provided in the following figures and tables.
 
 ---
 
@@ -178,6 +178,14 @@ To ensure reliability and robustness, all results are further validated using a 
 
 The computational complexity of the proposed HybDL framework is analyzed to verify its suitability for real-world clinical applications.
 
+<p align="center">
+<img src="https://github.com/shashwatshukla10/HyDL-Framework-for-Breast-Cancer-Detection-and-Morphology-Evaluation/blob/main/Figures/Table%208.png"width="800" height="600">
+<p align="center">
+
 ---
 
-A comprehensive summary of all results is provided in the figures and tables included in this repository.
+# Contact details
+### 1. Dr. Rahul Kumar Verma (rahul@iiitl.ac.in)
+###    Affiliation: **Department of Computer Science, Indian Institute of Information Technology~(IIIT) Lucknow, India**
+### 2. Dr. Shahid Hussain (shahid.hussain@atu.ie)
+###    Affiliation: **Atlantic Technological University (ATU), Dublin Road, Galway, H91 T8NW, Ireland**
