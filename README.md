@@ -19,6 +19,6 @@ The system model of the proposed HybDL consists of three functional phases, as d
 
 **Morphology Phase**: The segmented output is passed to the morphology phase, where key shape based features such as area, perimeter, circularity, and eccentricity are calculated using mathematical formulations. These quantitative features are then fed into a multivariate LSTM network to model temporal changes in tumor characteristics, including growth patterns and shape progression. The resulting predictions provide measurable insights into tumor behavior, supporting clinical decision making and patient follow up.
 <p align="center">
-<img src="https://github.com/shashwatshukla10/HyDL-Framework-for-Breast-Cancer-Detection-and-Morphology-Evaluation/blob/main/Figures/SystemModel.jpg" width="900" height="700">
+<img src="https://github.com/shashwatshukla10/HyDL-Framework-for-Breast-Cancer-Detection-and-Morphology-Evaluation/blob/main/Figures/SystemModel.jpg" width="700" height="500">
 <p align="center">
  
