@@ -74,3 +74,56 @@ The Structural Similarity Index (SSIM) algorithm was applied to the overall data
 
 **Figure 7.**  Formation of two distinct datasets based on the SSIM algorithm.
 
+# Results
+## 📊 Performance Evaluation
+
+The performance of the proposed **HybDL framework** is evaluated for both breast tumor detection and temporal morphology analysis.
+
+---
+
+### 🔍 1. Tumor Detection Evaluation
+
+The detection performance is assessed using two dataset configurations:
+
+- **WDD** — With Duplicate Dataset  
+- **WODD** — Without Duplicate Dataset  
+
+The following evaluation metrics are used:
+
+- Accuracy  
+- Precision  
+- Recall  
+- F1-score  
+- Area Under the ROC Curve (AUC)  
+- Dice Coefficient  
+
+After validating performance on the WODD dataset, a comparative analysis is conducted against state-of-the-art breast tumor detection models to assess robustness and generalization capability.
+
+---
+
+### 📈 2. Morphological Evaluation
+
+The morphology modeling performance of the LSTM module is evaluated using regression metrics:
+
+- Mean Absolute Error (MAE)  
+- Mean Squared Error (MSE)  
+- Root Mean Squared Error (RMSE)  
+- Coefficient of Determination (R²)  
+
+These metrics measure the model’s ability to capture temporal tumor growth patterns and shape evolution.
+
+---
+
+### 📊 3. Statistical Validation
+
+To ensure reliability and robustness, all results are further validated using a **95% confidence interval**.
+
+---
+
+### ⚙️ 4. Computational Analysis
+
+The computational complexity of the proposed HybDL framework is analyzed to verify its suitability for real-world clinical applications.
+
+---
+
+A comprehensive summary of all results is provided in the figures and tables included in this repository.
