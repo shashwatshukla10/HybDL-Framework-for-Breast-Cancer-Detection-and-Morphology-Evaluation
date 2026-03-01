@@ -24,3 +24,6 @@ The system model of the proposed HybDL consists of three functional phases, as d
 <p align="center">
  
 **Fig.1.**  Architecture of the proposed HybDL framework, highlighting key functional phases responsible for breast mammogram examination, Identification, and Morphological Evaluation.
+
+** Morhology Features Transformation Pipeline** 
+
