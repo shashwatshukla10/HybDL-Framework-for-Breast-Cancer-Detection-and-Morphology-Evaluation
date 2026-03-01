@@ -23,8 +23,12 @@ The system model of the proposed HybDL consists of three functional phases, as d
 <img src="https://github.com/shashwatshukla10/HyDL-Framework-for-Breast-Cancer-Detection-and-Morphology-Evaluation/blob/main/Figures/SystemModel.jpg" width="800" height="600">
 <p align="center">
  
-**Fig.1.**  Architecture of the proposed HybDL framework, highlighting key functional phases responsible for breast mammogram examination, Identification, and Morphological Evaluation.
+**Figure 1.**  Architecture of the proposed HybDL framework, highlighting key functional phases responsible for breast mammogram examination, Identification, and Morphological Evaluation.
 
 **Morhology Features Transformation Pipeline**: A feature sequencing pipeline is constructed to convert spatial morphological feature maps into structured temporal sequences suitable for LSTM processing. In this pipeline, quantitative shape descriptors extracted from segmented regions, such as area, perimeter, circularity, and eccentricity, are first computed for each image. These features are then organized in chronological order to form multivariate time series vectors. The resulting structured feature sequences serve as input to the LSTM network, enabling it to learn temporal dependencies and model the dynamic progression of tumor morphology over time.
 
+<p align="center">
+<img src="https://github.com/shashwatshukla10/HyDL-Framework-for-Breast-Cancer-Detection-and-Morphology-Evaluation/blob/main/Figures/LSTM.jpg" width="800" height="600">
+<p align="center">
 
+**Figure 2.**  Feature sequencing pipeline that transforms spatial morphological features into structured temporal sequences for LSTM based modeling.
