@@ -196,11 +196,13 @@ Rahul Kumar Verma
 Shahid Hussain  
 Saurabh Shukla  
 
-The manuscript is currently under review.
+**The manuscript is currently under review.**
 
-The code is shared for transparency and academic reference only.  
-Reproduction, redistribution, or commercial use is not permitted  
+<p style="color:red;">
+The code is shared for transparency and academic reference only.<br>
+Reproduction, redistribution, or commercial use is not permitted<br>
 without prior written permission from the authors.
+</p>
 
 ---
 
@@ -208,8 +210,8 @@ without prior written permission from the authors.
 
 ### Dr. Rahul Kumar Verma  
 Email: rahul@iiitl.ac.in  
-Affiliation: Department of Computer Science, Indian Institute of Information Technology (IIIT) Lucknow, India  
+Affiliation: Department of Computer Science, Indian Institute of Information Technology (IIIT) Lucknow, India.  
 
 ### Dr. Shahid Hussain  
 Email: shahid.hussain@atu.ie  
-Affiliation: Atlantic Technological University (ATU), Dublin Road, Galway, H91 T8NW, Ireland
+Affiliation: Atlantic Technological University (ATU), Dublin Road, Galway, H91 T8NW, Ireland.
