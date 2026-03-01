@@ -34,5 +34,5 @@ The system model of the proposed HybDL consists of three functional phases, as d
 **Figure 2.**  Feature sequencing pipeline that transforms spatial morphological features into structured temporal sequences for LSTM based modeling.
 
 # Dataset
-The dataset is accessible through the [Kaggle Website](https://www.kaggle.com/datasets/anaselmasry/datasetbusiwithgt/data). This dataset consists of a total of *780 breast images*, categorized into *133 normal*, **437 benign*,
-and *210 malignant* images
+The dataset is accessible through the [Kaggle Website](https://www.kaggle.com/datasets/anaselmasry/datasetbusiwithgt/data). This dataset consists of a total of *780 breast images*, categorized into *133 normal*, *437 benign*,
+and *210 malignant* images. A representation of the dataset is presented in Figure 3. 
