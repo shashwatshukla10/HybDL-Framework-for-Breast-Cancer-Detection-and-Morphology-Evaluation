@@ -10,3 +10,7 @@ This repository contains resources related to the **A Hybrid U-Net and LSTM Fram
 A detailed description of the working mechanism, methodology, and results of the research is included within the repository files.
 
 # System Model of the proposed HybDL
+The system model of the proposed HybDL consists of three functional phases, as detailed below.
+**Data Phase**: The data phase begins with an initial consultation with a physician, during which the patient’s symptoms, medical history, and clinical observations are discussed. Based on this evaluation, the physician may recommend further diagnostic tests, such as digital mammography, to assess any suspected abnormalities. The digital mammogram examination then generates high resolution breast images, which serve as the primary input data for subsequent analysis in the proposed framework.
+
+ 
