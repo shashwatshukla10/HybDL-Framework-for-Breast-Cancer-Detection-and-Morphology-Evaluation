@@ -75,13 +75,13 @@ The Structural Similarity Index (SSIM) algorithm was applied to the overall data
 **Figure 7.**  Formation of two distinct datasets based on the SSIM algorithm.
 
 # Results
-## 📊 Performance Evaluation
+## Performance Evaluation
 
 The performance of the proposed **HybDL framework** is evaluated for both breast tumor detection and temporal morphology analysis.
 
 ---
 
-### 🔍 1. Tumor Detection Evaluation
+### 1. Tumor Detection Evaluation
 
 The detection performance is assessed using two dataset configurations:
 
@@ -99,9 +99,28 @@ The following evaluation metrics are used:
 
 After validating performance on the WODD dataset, a comparative analysis is conducted against state-of-the-art breast tumor detection models to assess robustness and generalization capability.
 
+<p align="center">
+<img src="https://github.com/shashwatshukla10/HyDL-Framework-for-Breast-Cancer-Detection-and-Morphology-Evaluation/blob/main/Figures/Performance_WODD_WDD.png"width="700" height="500">
+<p align="center">
+
+**Figure 8.**  Performance analysis of the proposed HybDL model using accuracy, precision, recall, and F1-measure across the training, validation, and testing subsets of the WDD and WODD.
+
+<p align="center">
+<img src="https://github.com/shashwatshukla10/HyDL-Framework-for-Breast-Cancer-Detection-and-Morphology-Evaluation/blob/main/Figures/Dice_Coefficient_WODD_WDD.png"width="700" height="500">
+<p align="center">
+
+**Figure 9.**  Dice coefficient of the proposed HybDL for benign and malignant on training, validation, and testing sets 
+tumor detection.
+
+<p align="center">
+<img src="https://github.com/shashwatshukla10/HyDL-Framework-for-Breast-Cancer-Detection-and-Morphology-Evaluation/blob/main/Figures/PerformanceImprovement.jpg"width="700" height="500">
+<p align="center">
+
+**Figure 10.**  Performance improvement of the proposed HybDL over state-of-the-art methods ( DCNN [87], EDCNN [88], ADU-Net [89], DNBCD [90], U-KAN [91], VGG19 [92], CAR-Model [93], FMRNet [94], and ViT-CNN [95]) for breast
+
 ---
 
-### 📈 2. Morphological Evaluation
+### 2. Morphological Evaluation
 
 The morphology modeling performance of the LSTM module is evaluated using regression metrics:
 
@@ -114,13 +133,13 @@ These metrics measure the model’s ability to capture temporal tumor growth pat
 
 ---
 
-### 📊 3. Statistical Validation
+### 3. Statistical Validation
 
 To ensure reliability and robustness, all results are further validated using a **95% confidence interval**.
 
 ---
 
-### ⚙️ 4. Computational Analysis
+### 4. Computational Analysis
 
 The computational complexity of the proposed HybDL framework is analyzed to verify its suitability for real-world clinical applications.
 
