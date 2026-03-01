@@ -179,7 +179,7 @@ To ensure reliability and robustness, all results are further validated using a 
 The computational complexity of the proposed HybDL framework is analyzed to verify its suitability for real-world clinical applications.
 
 <p align="center">
-<img src="https://github.com/shashwatshukla10/HyDL-Framework-for-Breast-Cancer-Detection-and-Morphology-Evaluation/blob/main/Figures/Table%208.png"width="800" height="600">
+<img src="https://github.com/shashwatshukla10/HyDL-Framework-for-Breast-Cancer-Detection-and-Morphology-Evaluation/blob/main/Figures/Table%208.png"width="600" height="500">
 <p align="center">
 
 ---
