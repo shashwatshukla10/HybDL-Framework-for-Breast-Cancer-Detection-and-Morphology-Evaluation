@@ -54,5 +54,5 @@ and *210 malignant* images. A representation of the dataset is presented in Figu
 The Structural Similarity Index (SSIM) algorithm was applied to the overall dataset as well as to each class separately, namely normal, benign, and malignant images, to measure structural similarity between image pairs. A threshold was determined using the 99th percentile of the SSIM distribution to identify highly similar or duplicate images. Key descriptive statistics, including the minimum, maximum, mean, and standard deviation of SSIM scores, were computed to summarize the similarity characteristics across the entire dataset and within each class.
 
 <p align="center">
-<img src="https://github.com/shashwatshukla10/HyDL-Framework-for-Breast-Cancer-Detection-and-Morphology-Evaluation/blob/main/Figures/CombinedImages.png" width="900" height="700">
+<img src="https://github.com/shashwatshukla10/HyDL-Framework-for-Breast-Cancer-Detection-and-Morphology-Evaluation/blob/main/Figures/Table%201.png" width="800" height="600">
 <p align="center">
