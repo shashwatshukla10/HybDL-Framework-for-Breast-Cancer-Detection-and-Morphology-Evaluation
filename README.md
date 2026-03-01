@@ -184,23 +184,20 @@ The computational complexity of the proposed HybDL framework is analyzed to veri
 
 ---
 
-## Citation
+## Repository Notice
 
-## 📌 Repository Notice
+This repository contains implementation code related to ongoing research by:
 
-This repository is based on the research work of:
+**Shashwat Shukla**  
+**Rahul Kumar Verma**  
+**Shahid Hussain**  
+**Saurabh Shukla**  
 
-**Shashwat Shukla**,  
-**Rahul Kumar Verma**,  
-**Shahid Hussain**,  
-**Saurabh Shukla**
+The associated manuscript is currently under review.
 
-titled:
-
-**“A Hybrid U-Net and LSTM Framework for Breast Cancer Detection and Morphology Evaluation.”**
-
-The code is provided for academic and research purposes only.  
-It may be used, modified, and referenced for research and educational activities. Commercial use of this repository or its contents is not permitted.
+The code is shared for transparency and academic reference only.
+Reproduction, redistribution, or commercial use is not permitted
+without prior written permission from the authors.
 
 # Contact details
 ### 1. Dr. Rahul Kumar Verma (rahul@iiitl.ac.in)
