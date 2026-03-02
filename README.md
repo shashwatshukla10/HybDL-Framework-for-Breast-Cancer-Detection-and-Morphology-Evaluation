@@ -1,4 +1,4 @@
-# HyDL-Framework-for-Breast-Cancer-Detection-and-Morphology-Evaluation
+# HybDL-Framework-for-Breast-Cancer-Detection-and-Morphology-Evaluation
 
 This repository contains resources related to the **A Hybrid U-Net and LSTM Framework for Breast Cancer Detection and Morphology Evaluation** and consists of three folders.
 
