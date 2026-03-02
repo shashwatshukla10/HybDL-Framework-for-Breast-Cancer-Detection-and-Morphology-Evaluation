@@ -206,10 +206,9 @@ without prior written permission from the authors.
 
 ## Contact Details
 
-### Dr. Rahul Kumar Verma  
-Email: rahul@iiitl.ac.in  
-Affiliation: Department of Computer Science, Indian Institute of Information Technology (IIIT) Lucknow, India.  
+### Dr. Rahul Kumar Verma (rahul@iiitl.ac.in) 
+Department of Computer Science, Indian Institute of Information Technology (IIIT) Lucknow, India.  
 
-### Dr. Shahid Hussain  
-Email: shahid.hussain@atu.ie  
-Affiliation: Atlantic Technological University (ATU), Dublin Road, Galway, H91 T8NW, Ireland.
+ 
+### Dr. Shahid Hussain (shahid.hussain@atu.ie)  
+Atlantic Technological University (ATU), Dublin Road, Galway, H91 T8NW, Ireland.
